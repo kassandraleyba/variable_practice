@@ -11,3 +11,6 @@ number_of_books = 50
 deposit = 1200.00
 ticket_price = 295.00
 sale_price = 12.99
+
+deposit_paid = true
+ticket_purchased = false
