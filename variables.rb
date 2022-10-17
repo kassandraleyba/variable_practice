@@ -1,5 +1,3 @@
-name = "Paige"
-email = "test@gmail.com"
-puts 
-puts
-puts
+first_name = "Kassandra"
+last_name = "Leyba"
+email = "kassandra.leyba@gmail.com"
